@@ -6,6 +6,9 @@ import Header from "@/components/Header";
 export const metadata: Metadata = {
   title: "TechMate Studio | Mobile Game & App Development",
   description: "TechMate Studio builds engaging mobile games and innovative applications for Android users worldwide.",
+  verification: {
+    google: "Q09hHUjm7SgylsO1mf4uFYYN6AlEG2f_PhxULKSPj0g", // <-- Paste your exact secret string here
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
