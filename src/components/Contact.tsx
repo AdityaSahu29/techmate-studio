@@ -11,10 +11,10 @@ export default function Contact() {
                     Have an inquiry, feedback, or open collaboration concept? Get in touch with our core pipeline engineering team.
                 </p>
                 <div className="flex flex-col gap-4 text-neutral-700 dark:text-neutral-300">
-                    <a href="mailto:contact@techmatestudio.com" className="flex items-center gap-3 hover:text-[#153E8C]"><Mail size={18} /> contact@techmatestudio.com</a>
-                    <a href="#" className="flex items-center gap-3 hover:text-[#153E8C]"><Share2 size={18} /> GitHub Company Profile</a>
-                    <a href="#" className="flex items-center gap-3 hover:text-[#153E8C]"><Share2 size={18} /> LinkedIn Profile</a>
-                    <a href="#" className="flex items-center gap-3 hover:text-[#153E8C]"><Play size={18} /> Google Play Console Portfolio</a>
+                    <a href="mailto:sahuaditya215@gmail.com" className="flex items-center gap-3 hover:text-[#153E8C]"><Mail size={18} /> sahuaditya215@gmail.com</a>
+                    <a href="https://github.com/AdityaSahu29" className="flex items-center gap-3 hover:text-[#153E8C]"><Share2 size={18} /> GitHub Company Profile</a>
+                    <a href="https://www.linkedin.com/in/aditya-sahu29/" className="flex items-center gap-3 hover:text-[#153E8C]"><Share2 size={18} /> LinkedIn Profile</a>
+                    <a href="https://play.google.com/store/apps/dev?id=5606538798376286317" className="flex items-center gap-3 hover:text-[#153E8C]"><Play size={18} /> Google Play Console Portfolio</a>
                 </div>
             </div>
 

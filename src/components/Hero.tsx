@@ -37,7 +37,7 @@ export default function Hero() {
       >
         <div className="flex justify-center mb-6">
           <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-[#153E8C] to-[#D62828] flex items-center justify-center shadow-lg shadow-blue-900/10 ring-4 ring-white dark:ring-neutral-900">
-            <span className="text-xl font-bold text-white tracking-tighter">TM</span>
+            <span className="text-xl font-bold text-white tracking-tighter">TechMate</span>
           </div>
         </div>
         
